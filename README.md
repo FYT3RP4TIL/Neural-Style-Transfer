@@ -87,14 +87,22 @@ To dive deeper into Neural Style Transfer, check out these resources:
 - [Neural Style Transfer with Keras](https://keras.io/examples/generative/neural_style_transfer/)
 - [Exploring the structure of a real-time, arbitrary neural artistic stylization network](https://arxiv.org/abs/1705.06830)
 
+## 🎨 Custom Models
+
+The project includes two custom Neural Style Transfer (NST) models, located in the `notebooks` directory:
+
+1. **Full NST Model (VGG19)**: This model implements the original Neural Style Transfer algorithm. It uses VGG19 to the style from a given style image and applies it to a content image. This process can be computationally intensive but offers high flexibility in style application.
+
+2. **Pretrained Model**: This is a fast Neural Style Transfer model that uses a pretrained network. It can apply style transfer much more quickly than the Pull NST model, making it suitable for real-time applications or processing large numbers of images.
+
 ## 🖼️ Gallery
 
-(Add some example images here showcasing the results of your Neural Style Transfer model)
 
 ## 🙏 Acknowledgements
 
 - [TensorFlow Hub](https://tfhub.dev/) for the pre-trained model
 - The authors of the original NST papers and implementations
+- [Aleksa Gordić](https://github.com/gordicaleksa/pytorch-neural-style-transfer?tab=readme-ov-file) Pytorch Implementation
 
 ---
 
