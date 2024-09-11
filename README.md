@@ -154,6 +154,12 @@ Here are some examples of our Neural Style Transfer in action:
 </table>
 <table>
   <tr>
+    <td><img src="Imgs/military.jpg" alt="Generated Art 1" width="500"/></td>
+    <td><img src="Imgs/ms10.jpeg" alt="Generated Art 2" width="500"/></td>
+  </tr>
+</table>
+<table>
+  <tr>
     <td><img src="Imgs/Woman.jpg" alt="Generated Art 1" width="500"/></td>
     <td><img src="Imgs/Woman.jpeg" alt="Generated Art 2" width="500"/></td>
   </tr>
