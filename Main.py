@@ -1,5 +1,5 @@
 import matplotlib.pylab as plt
-from API import transfer_style
+from api import transfer_style
 import os
 
 if __name__ == "__main__":
@@ -10,8 +10,8 @@ if __name__ == "__main__":
     model_path = os.path.join(os.getcwd(), "model")
 
     # NOTE: Works only for '.jpg' and '.png' extensions, other formats may give error
-    content_image_path = os.path.join(os.getcwd(), "Imgs", "stevejobs.jpg") # Orignal Image
-    style_image_path = os.path.join(os.getcwd(), "Imgs", "style9.jpg") # Styling Image
+    content_image_path = os.path.join(os.getcwd(), "Imgs", "bluemoonlake.jpg") # Orignal Image
+    style_image_path = os.path.join(os.getcwd(), "Imgs", "style1.jpg") # Styling Image
 
     img = transfer_style(content_image_path, style_image_path, model_path)
 
