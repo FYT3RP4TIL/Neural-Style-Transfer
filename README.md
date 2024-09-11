@@ -128,6 +128,37 @@ Here are some examples of our Neural Style Transfer in action:
   </tr>
 </table>
 
+## MISC 🎨
+<table>
+  <tr>
+    <td><img src="Imgs/Elon Musk.jpg" alt="Generated Art 1" width="500"/></td>
+    <td><img src="Imgs/Elon1.jpeg" alt="Generated Art 2" width="500"/></td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td><img src="Imgs/trump.jpg" alt="Generated Art 1" width="500"/></td>
+    <td><img src="Imgs/trump1.jpeg" alt="Generated Art 2" width="500"/></td>
+  </tr>
+  <tr>
+    <td><img src="Imgs/trump2.jpeg" alt="Generated Art 3" width="500"/></td>
+    <td><img src="Imgs/trump3.jpeg" alt="Generated Art 4" width="500"/></td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td><img src="Imgs/arnold.jpg" alt="Generated Art 1" width="500"/></td>
+    <td><img src="Imgs/arnold1.jpeg" alt="Generated Art 2" width="500"/></td>
+    <td><img src="Imgs/arnold2.jpeg" alt="Generated Art 2" width="500"/></td>     
+  </tr>
+</table>
+<table>
+  <tr>
+    <td><img src="Imgs/Woman.jpg" alt="Generated Art 1" width="500"/></td>
+    <td><img src="Imgs/Woman.jpeg" alt="Generated Art 2" width="500"/></td>
+  </tr>
+</table>
+
 Each of these images demonstrates a unique style transfer, showcasing the versatility of our Neural Style Transfer model.
 
 ## 🙏 Acknowledgements
