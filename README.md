@@ -167,7 +167,7 @@ Here are some examples of our Neural Style Transfer in action:
 
 Each of these images demonstrates a unique style transfer, showcasing the versatility of our Neural Style Transfer model.
 
-## 🙏 Acknowledgements
+## Acknowledgements
 
 - [TensorFlow Hub](https://tfhub.dev/) for the pre-trained model
 - The authors of the original NST papers and implementations
