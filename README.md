@@ -98,6 +98,20 @@ The project includes two custom Neural Style Transfer (NST) models, located in t
 ## 🖼️ Gallery
 
 Here are some examples of our Neural Style Transfer in action:
+### Original Image
+<img src="Imgs/Lion.jpg" alt="OG" width="500"/>
+
+### Generated Artworks
+<table>
+  <tr>
+    <td><img src="Imgs/Lion1.jpeg" alt="Generated Art 1" width="700"/></td>
+    <td><img src="Imgs/Lion2.jpeg" alt="Generated Art 2" width="700"/></td>
+  </tr>
+  <tr>
+    <td><img src="Imgs/Lion3.jpeg" alt="Generated Art 3" width="700"/></td>
+    <td><img src="Imgs/Lion4.jpeg" alt="Generated Art 4" width="700"/></td>
+  </tr>
+</table>
 
 ### Original Image
 <img src="Imgs/stevejobs.jpg" alt="OG" width="500"/>
